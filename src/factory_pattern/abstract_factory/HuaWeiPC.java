@@ -8,6 +8,6 @@ public class HuaWeiPC implements PC {
 
     @Override
     public void make() {
-        System.out.println("抽象工厂 -- 在这里制作华为电脑端产品");
+        System.out.println("抽象工厂  --  在这里制作华为电脑端产品");
     }
 }
